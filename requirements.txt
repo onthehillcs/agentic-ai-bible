@@ -9,7 +9,7 @@ pydantic-ai==0.0.40
 
 # Vector databases
 chromadb==0.5.0
-faiss-cpu==1.8.0
+faiss-cpu==1.12.0
 
 # MCP
 mcp[cli]==1.5.0
