@@ -1,10 +1,10 @@
 # Core LLM SDKs
 anthropic==0.49.0
-openai==1.30.0
+openai==1.65.1
 
 # Agent frameworks (optional — only needed for Appendix C examples)
 langchain==0.3.0
-langgraph==0.2.0
+langgraph==0.2.40
 pydantic-ai==0.0.40
 
 # Vector databases
@@ -15,7 +15,7 @@ faiss-cpu==1.8.0
 mcp[cli]==1.5.0
 
 # Utilities
-Pydantic==2.7.0
+Pydantic==2.10.6
 fastapi==0.111.0
 uvicorn==0.30.0
 httpx==0.27.0
